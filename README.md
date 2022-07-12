@@ -5,7 +5,7 @@
 ![Mors](Images/Mors.png)
 
 # Door System at Logic Level
-![Door](Images/Door.png)
+![Gate](Images/Gate.png)
 
 # Circuit Desing of UAV 
 ![UAV](Images/UAV.png)
