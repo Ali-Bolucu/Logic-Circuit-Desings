@@ -1,3 +1,5 @@
+This Repo contains Logical Desing of project I have been done in Proteus
+
 # The Desings From Logic Circuit Desing Class
   Includes **Gates**-**Adder**-**Flip_Flop**
 
