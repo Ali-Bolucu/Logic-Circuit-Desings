@@ -1,1 +1,2 @@
-# Mors-Encoder-with-Logic-gates
+# The Desings From Logic Circuit Desing Class
+  Includes **Gates**-**Adder**-**Flip_Flop**
